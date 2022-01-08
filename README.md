@@ -1,4 +1,3 @@
 Titre:Travail groupe Git<br>
-Etudiant:Mamadou<br>
-         Dany<br>s
+Etudiant:Mamadou Touré<br>
 Classe:6TI<br>
