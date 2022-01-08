@@ -1,3 +1,3 @@
 Titre:Travail groupe Git<br>
-Etudiant:Mamadou Touré<br>
+Etudiant:Mamadou<br>
 Classe:6TI<br>
